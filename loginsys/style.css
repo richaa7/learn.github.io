@@ -1,0 +1,58 @@
+.bg{
+    width: 100%;
+    position:absolute;
+    z-index: -1;
+    opacity: 0.6;
+}
+.container h3{
+    text-align: center ;
+    margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(1, 19, 13);
+}
+input{
+   
+    width: 50%;
+    margin: 10px;
+    padding: 7px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(1, 19, 13);
+    background: rgb(161, 212, 168);
+    border: 2px solid rgb(1, 19, 13);
+}
+select{
+    width: 70%;
+    margin: 10px;
+    padding: 7px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(1, 19, 13);
+    background: rgb(161, 212, 168);
+    border: 2px solid rgb(1, 19, 13);
+}
+button{
+    width: 20%;
+    margin: 10px;
+    position:absolute;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid rgb(25, 21, 48);
+    box-align: justify;
+}
+
+.btn{
+color: rgb(1, 19, 13);
+background: rgb(161, 212, 168);
+font-size: 20px;
+border: 2px solid rgb(1, 19, 13);
+border-radius: 5px;
+font-style: italic;
+cursor: pointer;
+text-align: center ;
+margin-left: 450px;
+
+}
+.label{
+    color: rgb(237, 247, 243);
+    font-size: 40px;
+}
